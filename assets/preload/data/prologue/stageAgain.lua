@@ -1,0 +1,33 @@
+function onCreate()
+    makeLuaSprite('Bg', 'sans/background', -1450, -1300)
+      scaleObject('Bg', 2.4, 2.4)
+      setScrollFactor('Bg', 0.9, 0.9)
+      addLuaSprite('Bg', false)
+      setProperty('Bg.visible', true)
+      
+    makeLuaSprite('Grill', 'sans/grill1', 1900, -300)
+      scaleObject('Grill', 0.9, 0.9)
+      setScrollFactor('Grill', 0.9, 0.9)
+      addLuaSprite('Grill', false)
+      setProperty('Grill.visible', true)
+      
+    makeLuaSprite('Bar', 'sans/bar', -700, -860)
+      scaleLuaSprite('Bar', 2.2, 2.2)
+      setScrollFactor('Bar', 0.9, 0.9)
+      addLuaSprite('Bar', false)
+      setProperty('Bar.visible', true)
+      
+    makeAnimatedLuaSprite('Jbox', 'sans/Jukebox', 2100, -500)
+      addAnimationByPrefix('Jbox', 'dance', 'Jukebox Animation instância', 20, true)
+      objectPlayAnimation('Jbox', 'dance', false)
+      scaleObject('Jbox', 1.3, 1.3)
+      addLuaSprite('Jbox', false)
+      setProperty('Jbox.visible', true)
+      
+    makeAnimatedLuaSprite('Grillby', 'sans/GrillbyFunny', -350, -280)
+      addAnimationByPrefix('Grillby', 'dance', 'Fogo Loop', 20, true)
+      objectPlayAnimation('Grillby', false)
+      scaleLuaSprite('Grillby', 1.4, 1.4)
+      addLuaSprite('Grillby', false)
+      setProperty('Grillby.visible', true)
+end
