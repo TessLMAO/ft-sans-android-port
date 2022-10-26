@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+	"sound": "sansText",
+			"speed": 0.04,
+			"portrait": "sans dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "*not bad kid, not bad at all."
+		},
+		{
+	"sound": "sansText",
+			"speed": 0.04,
+			"portrait": "sans dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "*but, something's been messing with me."
+		},
+		{
+	"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "* Beep bo bap?"
+		},
+		{
+	"sound": "sansText",
+			"speed": 0.04,
+			"portrait": "sans dialogue",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "*have we ever sang before?"
+		},
+		{
+	"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "* Boop ba bo be??"
+		},
+		{
+	"sound": "sansText",
+			"speed": 0.04,
+			"portrait": "sans dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "*y'know, i can't really get what you're saying."
+		},
+		{
+	"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf dialogue",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "* man."
+		},
+		{
+	"sound": "sansText",
+			"speed": 0.04,
+			"portrait": "sans dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "*but hey, how about another round? Best of two eh"
+		},
+		{
+	"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "* Beep!"
+		}
+	]
+}
