@@ -1,0 +1,141 @@
+{
+	"dialogue": [
+		{
+	"sound": "papyrusText",
+			"speed": 0.04,
+			"portrait": "papyrus dialogue",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "NOW, SIT DOWN SANS."
+		},
+		{
+	"sound": "sansText",
+			"speed": 0.05,
+			"portrait": "sans dialogue",
+			"boxState": "normal",
+			"expression": "blink",
+			"text": "*sure bro"
+		},
+		{
+	"sound": "papyrusText",
+			"speed": 0.05,
+			"portrait": "papyrus dialogue",
+			"boxState": "normal",
+			"expression": "sus",
+			"text": "AHEM."
+		},
+		{
+	"sound": "papyrusText",
+			"speed": 0.04,
+			"portrait": "papyrus dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "WELL HELLO THERE SMALL HUMAN."
+		},
+		{
+	"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "* Beep"
+		},
+		{
+	"sound": "papyrusText",
+			"speed": 0.04,
+			"portrait": "papyrus dialogue",
+			"boxState": "normal",
+			"expression": "worried",
+			"text": "APLOGIES FOR INTERFERING IN THE SINGING."
+		},
+		{
+	"sound": "papyrusText",
+			"speed": 0.04,
+			"portrait": "papyrus dialogue",
+			"boxState": "normal",
+			"expression": "sus",
+			"text": "BETWEEN YOU AND MY BROTHER."
+		},
+		{
+	"sound": "papyrusText",
+			"speed": 0.04,
+			"portrait": "papyrus dialogue",
+			"boxState": "normal",
+			"expression": "mad",
+			"text": "BUT I COULDN'T LET HIM KEEP MAKING THAT ACT IN FRONT OF EVERYONE!"
+		},
+		{
+	"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "* Ba bo beep?"
+		},
+		{
+	"sound": "papyrusText",
+			"speed": 0.04,
+			"portrait": "papyrus dialogue",
+			"boxState": "normal",
+			"expression": "sus",
+			"text": "I DON'T FULLY KNOW
+"
+		},
+		{
+	"sound": "papyrusText",
+			"speed": 0.04,
+			"portrait": "papyrus dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "WELL, AS THE TENSION HAS ALREADY GONE DOWN."
+		},
+		{
+	"sound": "papyrusText",
+			"speed": 0.04,
+			"portrait": "papyrus dialogue",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "WOULD YOU, MAYBE LIKE TO SING A SONG WITH THE GREAT PAPYRUS?"
+		},
+		{
+	"sound": "boyfriendText",
+	        "speed": 0.05,
+	        "portrait": "bf dialogue",
+	        "boxState": "normal",
+	        "expression": "neutral",
+	        "text": "* Ba bo boo beep!"
+		},
+		{
+	"sound": "papyrusText",
+	        "speed": 0.04,
+	        "portrait": "papyrus dialogue",
+	        "boxState": "normal",
+	        "expression": "sus",
+	        "text": "I DON'T KNOW WHAT THAT MEANT."
+		},
+		{
+	"sound": "papyrusText",
+	        "speed": 0.04,
+	        "portrait": "papyrus dialogue",
+	        "boxState": "normal",
+	        "expression": "happy",
+	        "text": "BUT I'LL TAKE IT AS A YES."
+		},
+		{
+	"sound": "papyrusText",
+	        "speed": 0.04,
+	        "portrait": "papyrus dialogue",
+	        "boxState": "normal",
+	        "expression": "neutral",
+	        "text": "GRILLBY! CAN YOU PLEASE PLAY THE NUMBER 24 ON YOUR JUKEBOX PLEASE?"
+		},
+		{
+	"sound": "genericText",
+	        "speed": 0.6,
+	        "portrait": "grillby dialogue",
+	        "boxState": "normal",
+	        "expression": "neutral",
+	        "text": "*..."
+		}
+	]
+}
