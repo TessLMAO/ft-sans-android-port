@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GRILLBY DIALOGUE.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GRILLBY NEUTRAL0000" x="0" y="0" width="411" height="409" frameX="-12" frameY="0" frameWidth="431" frameHeight="412"/>
+	<SubTexture name="GRILLBY MAD0000" x="415" y="0" width="431" height="361" frameX="0" frameY="-51" frameWidth="431" frameHeight="412"/>
+</TextureAtlas>

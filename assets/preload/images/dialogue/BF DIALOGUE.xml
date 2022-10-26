@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BF DIALOGUE.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF BRUH0000" x="0" y="0" width="368" height="260"/>
+	<SubTexture name="BF BRUH0001" x="0" y="0" width="368" height="260"/>
+	<SubTexture name="BF BRUH0002" x="372" y="0" width="368" height="260"/>
+	<SubTexture name="BF BRUH0003" x="372" y="0" width="368" height="260"/>
+	<SubTexture name="BF NEUTRAL0000" x="0" y="264" width="368" height="260"/>
+	<SubTexture name="BF NEUTRAL0001" x="0" y="264" width="368" height="260"/>
+	<SubTexture name="BF NEUTRAL0002" x="372" y="264" width="368" height="260"/>
+	<SubTexture name="BF NEUTRAL0003" x="372" y="264" width="368" height="260"/>
+</TextureAtlas>

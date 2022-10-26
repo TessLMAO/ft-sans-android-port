@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PAPYRUS DIALOGUE.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PAPYRUS HAPPY0000" x="0" y="0" width="446" height="426"/>
+	<SubTexture name="PAPYRUS HAPPY0001" x="0" y="0" width="446" height="426"/>
+	<SubTexture name="PAPYRUS HAPPY0002" x="450" y="0" width="446" height="426"/>
+	<SubTexture name="PAPYRUS HAPPY0003" x="450" y="0" width="446" height="426"/>
+	<SubTexture name="PAPYRUS MAD0000" x="900" y="0" width="446" height="426"/>
+	<SubTexture name="PAPYRUS MAD0001" x="900" y="0" width="446" height="426"/>
+	<SubTexture name="PAPYRUS MAD0002" x="1350" y="0" width="446" height="426"/>
+	<SubTexture name="PAPYRUS MAD0003" x="1350" y="0" width="446" height="426"/>
+	<SubTexture name="PAPYRUS NEUTRAL0000" x="0" y="430" width="446" height="426"/>
+	<SubTexture name="PAPYRUS NEUTRAL0001" x="0" y="430" width="446" height="426"/>
+	<SubTexture name="PAPYRUS NEUTRAL0002" x="450" y="430" width="446" height="426"/>
+	<SubTexture name="PAPYRUS NEUTRAL0003" x="450" y="430" width="446" height="426"/>
+	<SubTexture name="PAPYRUS SUS0000" x="900" y="430" width="446" height="426"/>
+	<SubTexture name="PAPYRUS SUS0001" x="900" y="430" width="446" height="426"/>
+	<SubTexture name="PAPYRUS SUS0002" x="1350" y="430" width="446" height="426"/>
+	<SubTexture name="PAPYRUS SUS0003" x="1350" y="430" width="446" height="426"/>
+	<SubTexture name="PAPYRUS WORRIED0000" x="0" y="860" width="446" height="426"/>
+	<SubTexture name="PAPYRUS WORRIED0001" x="0" y="860" width="446" height="426"/>
+	<SubTexture name="PAPYRUS WORRIED0002" x="450" y="860" width="446" height="426"/>
+	<SubTexture name="PAPYRUS WORRIED0003" x="450" y="860" width="446" height="426"/>
+</TextureAtlas>

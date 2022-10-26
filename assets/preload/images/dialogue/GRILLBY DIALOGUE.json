@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		150,
+		-10
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "neutral",
+			"idle_offsets": [
+				4,
+				2
+			],
+			"loop_offsets": [
+			    0,
+			    0
+			],
+			"loop_name": "GRILLBY NEUTRAL",
+			"idle_name": "GRILLBY NEUTRAL0000"
+		},
+		{ 
+		    "anim": "mad",
+		    "idle_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_offsets": [
+		        0,
+		        0
+		    ],
+		    "loop_name": "GRILLBY MAD",
+		    "idle_name": "GRILLBY MAD0000"
+		}
+	],
+	"image": "GRILLBY DIALOGUE"
+}

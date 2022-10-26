@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SANS DIALOGUE.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SANS BLINK0000" x="0" y="0" width="440" height="314"/>
+	<SubTexture name="SANS CONFUSED0000" x="444" y="0" width="440" height="314"/>
+	<SubTexture name="SANS HAPPY0000" x="888" y="0" width="440" height="314"/>
+	<SubTexture name="SANS LMAO0000" x="1332" y="0" width="440" height="314"/>
+	<SubTexture name="SANS MAD0000" x="0" y="318" width="439" height="313"/>
+	<SubTexture name="SANS NEUTRAL0000" x="443" y="318" width="440" height="314"/>
+	<SubTexture name="SANS SAD0000" x="887" y="318" width="440" height="314"/>
+	<SubTexture name="SANS SLEEP0000" x="1331" y="318" width="440" height="314"/>
+</TextureAtlas>

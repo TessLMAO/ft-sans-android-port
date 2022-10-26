@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		150,
+		-10
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "neutral",
+			"idle_offsets": [
+				4,
+				2
+			],
+			"loop_offsets": [
+			    4,
+			    2
+			],
+			"loop_name": "PAPYRUS NEUTRAL",
+			"idle_name": "PAPYRUS NEUTRAL0003"
+		},
+		{ 
+		    "anim": "sus",
+		    "idle_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_name": "PAPYRUS SUS",
+		    "idle_name": "PAPYRUS SUS0003"
+		},
+		{
+		    "anim": "worried",
+		    "idle_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_name": "PAPYRUS WORRIED",
+		    "idle_name": "PAPYRUS WORRIED0003"
+		},
+		{
+		    "anim": "happy",
+		    "idle_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_name": "PAPYRUS HAPPY",
+		    "idle_name": "PAPYRUS HAPPY0003"
+		},
+		{
+		    "anim": "mad",
+		    "idle_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_name": "PAPYRUS MAD",
+		    "idle_name": "PAPYRUS MAD0003"
+		}
+	],
+	"image": "PAPYRUS DIALOGUE"
+}

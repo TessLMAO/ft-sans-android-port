@@ -1,0 +1,115 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		150,
+		100
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "neutral",
+			"idle_offsets": [
+				4,
+				2
+			],
+			"loop_offsets": [
+			    4,
+			    2
+			],
+			"loop_name": "SANS NEUTRAL",
+			"idle_name": "SANS NEUTRAL0000"
+		},
+		{ 
+		    "anim": "blink",
+		    "idle_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_name": "SANS BLINK",
+		    "idle_name": "SANS BLINK0000"
+		},
+		{
+		    "anim": "confused",
+		    "idle_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_name": "SANS CONFUSED",
+		    "idle_name": "SANS CONFUSED0000"
+		},
+		{
+		    "anim": "lmao",
+		    "idle_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_name": "SANS LMAO",
+		    "idle_name": "SANS LMAO0000"
+		},
+		{
+		    "anim": "sad",
+		    "idle_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_name": "SANS SAD",
+		    "idle_name": "SANS SAD0000"
+		},
+		{
+		    "anim": "happy",
+		    "idle_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_name": "SANS HAPPY",
+		    "idle_name": "SANS HAPPY0000"
+		},
+		{
+		    "anim": "mad",
+		    "idle_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_name": "SANS MAD",
+		    "idle_name": "SANS MAD0000"
+		},
+		{
+		    "anim": "sleep",
+		    "idle_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_name": "SANS SLEEP",
+		    "idle_name": "SANS SLEEP0000"
+		}
+	],
+	"image": "SANS DIALOGUE"
+}

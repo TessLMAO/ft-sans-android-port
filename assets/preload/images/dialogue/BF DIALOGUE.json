@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-100,
+		120
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "neutral",
+			"idle_offsets": [
+				4,
+				2
+			],
+			"loop_offsets": [
+			    0,
+			    0
+			],
+			"loop_name": "BF NEUTRAL",
+			"idle_name": "BF NEUTRAL0003"
+		},
+		{
+		    "anim": "bruh",
+		    "idle_offsets": [
+		        4,
+		        2
+		    ],
+		    "loop_offsets": [
+		        0,
+		        0
+		    ],
+		    "loop_name": "BF BRUH",
+		    "idle_name": "BF BRUH0003"
+		}
+	],
+	"image": "BF DIALOGUE"
+}
