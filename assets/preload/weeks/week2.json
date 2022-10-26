@@ -1,22 +1,32 @@
 {
 	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+		[
+			"ominous",
+			"prunsel",
+			[
+				146,
+				113,
+				253
+			]
+		]
 	],
-
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "black",
+	"difficulties": "hard",
 	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
+		"prunsel",
+		"",
+		""
 	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
+	"storyName": "papyrus",
+	"weekName": "?",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekBefore": "weeksnow",
+	"startUnlocked": false
 }

@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Prologue", "gf", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bluebf",
+		"bluegf"
+	],
+	"weekBackground": "grillbys",
+
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "Prologue",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

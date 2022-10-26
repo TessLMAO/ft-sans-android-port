@@ -1,0 +1,58 @@
+{
+	"storyName": "Bonehard Brothers",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "grillbys",
+	"freeplayColor": [
+		139,
+		222,
+		255
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"skelebros",
+		"bluebf",
+		"bluegf"
+	],
+	"songs": [
+		[
+			"on-break",
+			"sans",
+			[
+				139,
+				222,
+				255
+			]
+		],
+		[
+			"layback",
+			"sans",
+			[
+				139,
+				222,
+				255
+			]
+		],
+		[
+			"promise",
+			"tired-sans",
+			[
+				61,
+				65,
+				169
+			]
+		],
+		[
+			"Puzzling",
+			"papyrus",
+			[
+				222,
+				89,
+				51
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Ft. Sans"
+}
