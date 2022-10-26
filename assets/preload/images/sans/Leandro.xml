@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Leandro.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Leandro0000" x="0" y="0" width="340" height="317" frameX="0" frameY="-14" frameWidth="340" frameHeight="331"/>
+	<SubTexture name="Leandro0001" x="0" y="0" width="340" height="317" frameX="0" frameY="-14" frameWidth="340" frameHeight="331"/>
+	<SubTexture name="Leandro0002" x="344" y="0" width="337" height="318" frameX="-3" frameY="-13" frameWidth="340" frameHeight="331"/>
+	<SubTexture name="Leandro0003" x="344" y="0" width="337" height="318" frameX="-3" frameY="-13" frameWidth="340" frameHeight="331"/>
+	<SubTexture name="Leandro0004" x="685" y="0" width="326" height="322" frameX="-8" frameY="-9" frameWidth="340" frameHeight="331"/>
+	<SubTexture name="Leandro0005" x="685" y="0" width="326" height="322" frameX="-8" frameY="-9" frameWidth="340" frameHeight="331"/>
+	<SubTexture name="Leandro0006" x="1015" y="0" width="317" height="330" frameX="-12" frameY="-1" frameWidth="340" frameHeight="331"/>
+	<SubTexture name="Leandro0007" x="1015" y="0" width="317" height="330" frameX="-12" frameY="-1" frameWidth="340" frameHeight="331"/>
+	<SubTexture name="Leandro0008" x="1336" y="0" width="314" height="331" frameX="-13" frameY="0" frameWidth="340" frameHeight="331"/>
+	<SubTexture name="Leandro0009" x="1336" y="0" width="314" height="331" frameX="-13" frameY="0" frameWidth="340" frameHeight="331"/>
+	<SubTexture name="Leandro0010" x="1336" y="0" width="314" height="331" frameX="-13" frameY="0" frameWidth="340" frameHeight="331"/>
+	<SubTexture name="Leandro0011" x="1336" y="0" width="314" height="331" frameX="-13" frameY="0" frameWidth="340" frameHeight="331"/>
+	<SubTexture name="Leandro0012" x="1336" y="0" width="314" height="331" frameX="-13" frameY="0" frameWidth="340" frameHeight="331"/>
+	<SubTexture name="Leandro0013" x="1336" y="0" width="314" height="331" frameX="-13" frameY="0" frameWidth="340" frameHeight="331"/>
+</TextureAtlas>

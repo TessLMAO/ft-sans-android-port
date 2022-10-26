@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Paps.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Paps instância 10000" x="0" y="0" width="344" height="567" frameX="0" frameY="-8" frameWidth="344" frameHeight="576"/>
+	<SubTexture name="Paps instância 10001" x="0" y="0" width="344" height="567" frameX="0" frameY="-8" frameWidth="344" frameHeight="576"/>
+	<SubTexture name="Paps instância 10002" x="348" y="0" width="342" height="569" frameX="-2" frameY="-6" frameWidth="344" frameHeight="576"/>
+	<SubTexture name="Paps instância 10003" x="348" y="0" width="342" height="569" frameX="-2" frameY="-6" frameWidth="344" frameHeight="576"/>
+	<SubTexture name="Paps instância 10004" x="694" y="0" width="339" height="574" frameX="-3" frameY="-2" frameWidth="344" frameHeight="576"/>
+	<SubTexture name="Paps instância 10005" x="694" y="0" width="339" height="574" frameX="-3" frameY="-2" frameWidth="344" frameHeight="576"/>
+	<SubTexture name="Paps instância 10006" x="1037" y="0" width="337" height="576" frameX="-5" frameY="0" frameWidth="344" frameHeight="576"/>
+	<SubTexture name="Paps instância 10007" x="1037" y="0" width="337" height="576" frameX="-5" frameY="0" frameWidth="344" frameHeight="576"/>
+	<SubTexture name="Paps instância 10008" x="1037" y="0" width="337" height="576" frameX="-5" frameY="0" frameWidth="344" frameHeight="576"/>
+	<SubTexture name="Paps instância 10009" x="1037" y="0" width="337" height="576" frameX="-5" frameY="0" frameWidth="344" frameHeight="576"/>
+	<SubTexture name="Paps instância 10010" x="1037" y="0" width="337" height="576" frameX="-5" frameY="0" frameWidth="344" frameHeight="576"/>
+	<SubTexture name="Paps instância 10011" x="1037" y="0" width="337" height="576" frameX="-5" frameY="0" frameWidth="344" frameHeight="576"/>
+</TextureAtlas>

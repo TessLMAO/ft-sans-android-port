@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Namoradinhos.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CueiaELeandro instância 10000" x="0" y="0" width="402" height="442" frameX="0" frameY="-9" frameWidth="402" frameHeight="456"/>
+	<SubTexture name="CueiaELeandro instância 10001" x="0" y="0" width="402" height="442" frameX="0" frameY="-9" frameWidth="402" frameHeight="456"/>
+	<SubTexture name="CueiaELeandro instância 10002" x="406" y="0" width="401" height="447" frameX="0" frameY="-6" frameWidth="402" frameHeight="456"/>
+	<SubTexture name="CueiaELeandro instância 10003" x="406" y="0" width="401" height="447" frameX="0" frameY="-6" frameWidth="402" frameHeight="456"/>
+	<SubTexture name="CueiaELeandro instância 10004" x="811" y="0" width="395" height="452" frameX="-2" frameY="-3" frameWidth="402" frameHeight="456"/>
+	<SubTexture name="CueiaELeandro instância 10005" x="811" y="0" width="395" height="452" frameX="-2" frameY="-3" frameWidth="402" frameHeight="456"/>
+	<SubTexture name="CueiaELeandro instância 10006" x="1210" y="0" width="395" height="456" frameX="-2" frameY="0" frameWidth="402" frameHeight="456"/>
+	<SubTexture name="CueiaELeandro instância 10007" x="1210" y="0" width="395" height="456" frameX="-2" frameY="0" frameWidth="402" frameHeight="456"/>
+	<SubTexture name="CueiaELeandro instância 10008" x="1210" y="0" width="395" height="456" frameX="-2" frameY="0" frameWidth="402" frameHeight="456"/>
+	<SubTexture name="CueiaELeandro instância 10009" x="1210" y="0" width="395" height="456" frameX="-2" frameY="0" frameWidth="402" frameHeight="456"/>
+	<SubTexture name="CueiaELeandro instância 10010" x="1210" y="0" width="395" height="456" frameX="-2" frameY="0" frameWidth="402" frameHeight="456"/>
+	<SubTexture name="CueiaELeandro instância 10011" x="1210" y="0" width="395" height="456" frameX="-2" frameY="0" frameWidth="402" frameHeight="456"/>
+</TextureAtlas>
