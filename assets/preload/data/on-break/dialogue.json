@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+	"sound": "sansText",
+			"speed": 0.04,
+			"portrait": "sans dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "*sup bud, what you up to?"
+		},
+		{
+	"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "*Beep bo boop."
+		},
+		{
+	"sound": "sansText",
+			"speed": 0.04,
+			"portrait": "sans dialogue",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "*singing? oh, could notice by the mic."
+		},
+		{
+	"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "*Bap be bo."
+		},
+		{
+	"sound": "sansText",
+			"speed": 0.04,
+			"portrait": "sans dialogue",
+			"boxState": "normal",
+			"expression": "blink",
+			"text": "*a rap battle? not sure if that's my thing kid."
+		},
+		{
+	"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "*Bo be bo."
+		},
+		{
+	"sound": "sansText",
+			"speed": 0.04,
+			"portrait": "sans dialogue",
+			"boxState": "normal",
+			"expression": "sad",
+			"text": "*hm, say, I'm a little low on money these days."
+		},
+		{
+	"sound": "genericText",
+			"speed": 0.02,
+			"portrait": "grillby dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "*You are always outta"
+		},
+		{
+	"sound": "sansText",
+			"speed": 0.04,
+			"portrait": "sans dialogue",
+			"boxState": "normal",
+			"expression": "blink",
+			"text": "*so, i'll sing some lines with ya, and whoever wins pays the other's tab, watcha think?"
+		},
+		{
+	"sound": "boyfriendText",
+			"speed": 0.05,
+			"portrait": "bf dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "*Be ba bop!"
+		},
+		{
+	"sound": "sansText",
+			"speed": 0.04,
+			"portrait": "sans dialogue",
+			"boxState": "normal",
+			"expression": "lmao",
+			"text": "*grillby?"
+		},
+		{
+	"sound": "genericText",
+			"speed": 0.6,
+			"portrait": "grillby dialogue",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "*..."
+		}
+	]
+}
