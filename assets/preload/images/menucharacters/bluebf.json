@@ -1,0 +1,11 @@
+{
+	"idle_anim": "BF Idle",
+	"confirm_anim": "",
+	"position": [
+		18,
+		-83
+	],
+	"scale": 0.72,
+	"flipX": false,
+	"image": "BF_Story"
+}

@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Skelebros",
+	"confirm_anim": "",
+	"position": [
+		264,
+		60
+	],
+	"scale": 0.8,
+	"flipX": false,
+	"image": "skelebros_story"
+}

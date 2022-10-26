@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_week_select.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Gf bounce0000" x="11" y="11" width="424" height="482" frameX="-1" frameY="-5" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0001" x="11" y="11" width="424" height="482" frameX="-1" frameY="-5" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0002" x="450" y="11" width="425" height="481" frameX="0" frameY="-6" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0003" x="890" y="11" width="427" height="481" frameX="0" frameY="-6" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0004" x="1332" y="11" width="423" height="483" frameX="-4" frameY="-4" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0005" x="1770" y="11" width="424" height="482" frameX="-4" frameY="-4" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0006" x="2209" y="11" width="422" height="483" frameX="-6" frameY="-3" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0007" x="2209" y="11" width="422" height="483" frameX="-6" frameY="-3" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0008" x="2646" y="11" width="418" height="485" frameX="-10" frameY="-1" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0009" x="2646" y="11" width="418" height="485" frameX="-10" frameY="-1" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0010" x="3079" y="11" width="417" height="485" frameX="-11" frameY="-1" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0011" x="3079" y="11" width="417" height="485" frameX="-11" frameY="-1" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0012" x="3079" y="11" width="417" height="485" frameX="-11" frameY="-1" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0013" x="3511" y="11" width="418" height="486" frameX="-10" frameY="0" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0014" x="3511" y="11" width="418" height="486" frameX="-10" frameY="0" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0015" x="11" y="512" width="416" height="485" frameX="-9" frameY="-2" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0016" x="11" y="512" width="416" height="485" frameX="-9" frameY="-2" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0017" x="442" y="512" width="417" height="485" frameX="-8" frameY="-2" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0018" x="874" y="512" width="419" height="485" frameX="-8" frameY="-2" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0019" x="1308" y="512" width="418" height="485" frameX="-9" frameY="-2" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0020" x="1741" y="512" width="419" height="484" frameX="-9" frameY="-2" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0021" x="2175" y="512" width="418" height="485" frameX="-10" frameY="-1" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0022" x="2175" y="512" width="418" height="485" frameX="-10" frameY="-1" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0023" x="2608" y="512" width="417" height="485" frameX="-11" frameY="-1" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0024" x="2608" y="512" width="417" height="485" frameX="-11" frameY="-1" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0025" x="3040" y="512" width="417" height="485" frameX="-11" frameY="-1" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0026" x="3040" y="512" width="417" height="485" frameX="-11" frameY="-1" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0027" x="3040" y="512" width="417" height="485" frameX="-11" frameY="-1" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0028" x="3472" y="512" width="418" height="485" frameX="-10" frameY="-1" frameWidth="428" frameHeight="487"/>
+	<SubTexture name="Gf bounce0029" x="3472" y="512" width="418" height="485" frameX="-10" frameY="-1" frameWidth="428" frameHeight="487"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+{
+	"idle_anim": "Prunsel",
+	"confirm_anim": "",
+	"position": [
+		50,
+		100
+	],
+	"scale": 0.8,
+	"flipX": false,
+	"image": "prunsel"
+}
